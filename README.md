@@ -3,7 +3,7 @@
 <h3 align="center">Understanding IT</h3>
 
 <p align="left"> <img src="
-" alt="akhil234" /> </p>
+" alt="" /> </p>
 
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark_lover"><img src="https://github-profile-trophy.vercel.app/?username=akhil234" alt="akhil234" /></a> </p>
 
