@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Akhil S S</h1>
 <h3 align="center">Understanding IT</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil234&label=Profile%20views&color=0e75b6&style=flat" alt="akhil234" /> </p>
+<p align="left"> <img src="![lion](https://user-images.githubusercontent.com/93428847/159713194-254b4ab0-7437-48bf-b25c-569a8bd43f17.jpg)
+" alt="akhil234" /> </p>
 
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark_lover"><img src="https://github-profile-trophy.vercel.app/?username=akhil234" alt="akhil234" /></a> </p>
 
