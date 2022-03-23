@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Akhil S S</h1>
 <h3 align="center">Understanding IT</h3>
 
-<img align="right" alt="Coding" width="400" src="http://clipart-library.com/images/6cr5EKMgi.gif">
+<img align="center" alt="Coding" width="200" src="http://clipart-library.com/images/6cr5EKMgi.gif">
 
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark_lover"><img src="https://github-profile-trophy.vercel.app/?username=akhil234" alt="akhil234" /></a> </p>
 
